@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5475FFE7FB3A1F05446360789267DA11",
+  "keywordClasses": [
+    {
+      "name": "custom.Workorder",
+      "keywordMethods": [
+        {
+          "name": "workorder1",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "3CECDA89A6541023B0766DBAF38E65AD",
+  "keywordClasses": [
+    {
+      "name": "custom.Login",
+      "keywordMethods": [
+        {
+          "name": "loginPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ForgetPassword",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

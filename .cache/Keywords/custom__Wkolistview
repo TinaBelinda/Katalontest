@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "11CD7C2C8ED4F526554B1F0416111C2D",
+  "keywordClasses": [
+    {
+      "name": "custom.Wkolistview",
+      "keywordMethods": [
+        {
+          "name": "workorderlist",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

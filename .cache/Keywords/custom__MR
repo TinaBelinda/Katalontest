@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C96CF277B1582E4471CBC22B6A3BCBE2",
+  "keywordClasses": [
+    {
+      "name": "custom.MR",
+      "keywordMethods": [
+        {
+          "name": "MR1",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
