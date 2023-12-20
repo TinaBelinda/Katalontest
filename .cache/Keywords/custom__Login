@@ -1,21 +1,19 @@
 {
-  "keywordFileContentHash": "3CECDA89A6541023B0766DBAF38E65AD",
+  "keywordFileContentHash": "273177D3136C2A41B623E16114CF8160",
   "keywordClasses": [
     {
       "name": "custom.Login",
       "keywordMethods": [
         {
           "name": "loginPage",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "ForgetPassword",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

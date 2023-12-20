@@ -24,6 +24,8 @@ public class Login {
 
 	@Keyword
 	def loginPage() {
+		
+		// Login
 
 		WebUI.openBrowser(GlobalVariable.URL)
 		WebUI.maximizeWindow()
